@@ -51,13 +51,11 @@ Explorar más a fondo las relaciones entre la garantía y la durabilidad para id
 
 1. Carga el archivo de **Power BI** para acceder al dashboard interactivo.
 2. Cada gráfico interactúa con los demás. Por ejemplo, si seleccionas un dispositivo en el gráfico de **clasificación de eficiencia**, los demás gráficos se actualizarán para reflejar solo los datos relacionados con ese dispositivo.
-3. Utiliza las segmentaciones para filtrar los datos según **fabricante**, **tipo de dispositivo** o **clasificación de eficiencia**.
+3. Utiliza las segmentaciones para filtrar los datos según **tipo de dispositivo** , **ubicacion geografica**, **eficiencia energetica**, **año de lanzamiento** y **fabricante**.
 
 ## Tecnologías Utilizadas
 
 - **Power BI** para visualización interactiva.
-- **Python (Pandas y Matplotlib)** para preprocesamiento de datos y visualizaciones estáticas.
 - **Excel** para la organización inicial de los datos.
-
 
 ¡Gracias por explorar este proyecto! Si tienes preguntas o comentarios, no dudes en contactarme.
